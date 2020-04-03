@@ -166,7 +166,7 @@ def create_from_scratch():
 
 
 def main():
-    create_from_saved()
+    create_from_scratch()
 
 
 if __name__ == "__main__":
